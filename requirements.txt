@@ -1,0 +1,6 @@
+First install this modules using command 'pip install module_name' and then run the main.py file.
+
+ - geopy
+ - timezonefinder
+ - pytz
+ - requests
